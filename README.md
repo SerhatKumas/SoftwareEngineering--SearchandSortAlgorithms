@@ -14,9 +14,9 @@
 - In implementations, my main purpose was to practise and understand the logic of the algorithms, I was not concerned about best practise design patterns, efficiency and complexity matters.
 
 ## Visualization Tools
-- https://visualgo.net/en -> Data Structure Visualization Tool. It looks good and perfcect
+- https://visualgo.net/en -> Various data structures and algorithms visualization tool, it was beneficial to understand how they work.
   
-- https://www.toptal.com/developers/sorting-algorithms -> Run time for different variations visualization
+- https://www.toptal.com/developers/sorting-algorithms -> Run time comparing for different variations visualization
 
 
 ## Technologies
